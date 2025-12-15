@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "ラララ",
+  "base_artist": "Mr.Children",
+  "createdAt": "2025-12-15T06:48:30.297862Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ラララ",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/01_ラララ_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lalala ~Ai wo Arigatou~ (ラララ ~愛をありがとう~)",
+      "artist": "VIXX",
+      "has_synced": true,
+      "path": "select/02_Lalala_~Ai_wo_Arigatou~_(ラララ_~愛をありがとう~)_VIXX.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ラララ~君へ贈る歌~",
+      "artist": "渕上 舞",
+      "has_synced": false,
+      "path": "select/03_ラララ~君へ贈る歌~_渕上_舞.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ラララ",
+      "artist": "Kiroro",
+      "has_synced": false,
+      "path": "select/04_ラララ_Kiroro.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ラララ",
+      "artist": "Mr․Children",
+      "has_synced": true,
+      "path": "select/05_ラララ_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ラララ ミ",
+      "artist": "Iris",
+      "has_synced": true,
+      "path": "select/06_ラララ_ミ_Iris.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ラララ",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/pl_01_ラララ_Mr.Children.txt"
+    }
+  ]
+}
